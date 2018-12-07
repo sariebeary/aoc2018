@@ -71,4 +71,4 @@ character, the third (`h` and `u`). Those must be the correct boxes.
 above, this is found by removing the differing character from either ID,
 producing `fgij`.)
 
-Your puzzle answer was `prtkqyluiusocwvaezjmhmfgx`.
+Your puzzle answer was `fonbwmjquwtapeyzikghtvdxl`.
